@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "K1SzSXQc6z31gvMyaRkEFFJ6pxceF5wNtt/fezWgPe0=",
+  "Source": "Projeto_Web_Lh_Pets",
+  "BasePath": "_content/Projeto_Web_Lh_Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web_Lh_Pets\\wwwroot",
+      "Source": "Projeto_Web_Lh_Pets",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SQL\\Projeto_Web\\Projeto_Web_Lh_Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\SQL\\Projeto_Web\\Projeto_Web_Lh_Pets\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web_Lh_Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SQL\\Projeto_Web\\Projeto_Web_Lh_Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
